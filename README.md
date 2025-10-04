@@ -27,6 +27,12 @@ For a trader who frequently monitors multiple symbols, the Symbol Swap Panel off
 
 This utility is ideal for active traders and analysts who require a streamlined approach to managing symbols and Market Watch entries, offering a practical solution for maintaining focus and efficiency in fast-paced trading environments.
 
+### Screenshot 1
+![Screenshot 1](Images/screenshot%201)
+
+### Screenshot 2
+![Screenshot 2](Images/screenshot%202)
+
 ***NOTE***:
 
 To customize the button image in the Symbol Swap Panel Utility, follow these steps:
